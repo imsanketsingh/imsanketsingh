@@ -3,6 +3,8 @@ Currently a junior pursuing B. Tech in *Electrical Engineering* from *Punjab Eng
 
 ### Check out some of my projects:
 ##### Individual
+[![DSG][DSG-shield]][DSG_url]
+<br>
 [![MRS][MRS-shield]][MRS_url]
 <br>
 [![SpClf][SpClf-shield]][SpClf_url]
@@ -43,6 +45,7 @@ Currently a junior pursuing B. Tech in *Electrical Engineering* from *Punjab Eng
 [SpClf-shield]: https://img.shields.io/badge/Spam%20Email%20Classifier-SEC-brightgreen
 [RBH-shield]: https://img.shields.io/badge/A%20Digital%20Banking%20Platform-RBH-brightgreen
 [Void-shield]: https://img.shields.io/badge/Role:%20UI%20Designer%20-9cf
+[DSG-shield]: https://img.shields.io/badge/Real%20World%20Datasets%20Generation%20-DSG-brightgreen
 
 [linkedin_url]: https://www.linkedin.com/in/sanket-kumar-singh-b698191b8/
 [instagram_url]: https://www.instagram.com/imsanketsingh
@@ -50,3 +53,4 @@ Currently a junior pursuing B. Tech in *Electrical Engineering* from *Punjab Eng
 [MRS_url]: https://imsanketsingh-movie-recommendation-system-app-ebpa2f.streamlitapp.com
 [SpClf_url]: https://smsspamdetect-sanketkumarsingh.herokuapp.com
 [RBH_url]: https://github.com/imsanketsingh/NeoBank_RBH-Bank
+[DSG_url]: https://github.com/imsanketsingh/my-generated-datasets
