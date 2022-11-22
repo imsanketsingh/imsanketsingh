@@ -9,7 +9,7 @@ Currently a junior pursuing B. Tech in *Electrical Engineering* from *Punjab Eng
 
 ##### Group
 [![RBH][RBH-shield]][RBH_url]
-![Role][Void-shield][RBH_url]
+[![Role][Void-shield]][RBH_url]
 
 
 
