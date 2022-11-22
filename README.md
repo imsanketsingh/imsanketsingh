@@ -1,5 +1,5 @@
 ## About Me:
-Currently a junior pursuing B. Tech in *Electrical Engineering* from *Punjab Engineering College, Chandigarh*, I am a young enthusiastic problem-solver skilled in C++, Python, Data Structures, UI Designing, Web Scraping, SQL, ReactJS basics, Flask, Data Analysis and trying to be better at Machine Learning and related stuffs. Interested in Social, Political, Geo-political discussions. Experienced in Content Writing. Sometimes I sing as well.
+Currently a junior pursuing B. Tech in *Electrical Engineering* from *Punjab Engineering College, Chandigarh*, I am a young enthusiastic problem-solver skilled in C++, Python, Data Analysis, Data Structures, UI Designing, Web Scraping, SQL, ReactJS b,asics, Flask and trying to be better at Machine Learning and related stuffs. Interested in Social, Political, Geo-political discussions. Experienced in Content Writing. Sometimes I sing as well.
 
 ### Check out some of my projects:
 ##### Individual
